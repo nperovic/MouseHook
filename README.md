@@ -35,6 +35,10 @@ mh.Wait("LButton", "D", "LButton", unset, "RButton", "D", "RButton", unset)
 mh.Stop()
 ```
 
+See  for the real uasge of MouseHook.
+
+Refer to [TaskbarReveal.ahk](example/TaskbarReveal.ahk) for the practical usage of MouseHook.
+
 ## Notes
 
 This library requires [AutoHotkey v2.1-alpha.9](https://www.autohotkey.com/download/2.1) or later.  
@@ -74,6 +78,8 @@ mh.Start()
 mh.Wait("LButton", "D", "LButton", unset, "RButton", "D", "RButton", unset)
 mh.Stop()
 ```
+
+請參考 [TaskbarReveal.ahk](example/TaskbarReveal.ahk) 以瞭解 MouseHook 的實際用途。
 
 ## 注意事項
 
