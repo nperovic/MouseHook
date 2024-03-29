@@ -1,3 +1,16 @@
+/************************************************************************
+ * @description The MouseHook library is an advanced tool for AutoHotkey, designed to facilitate the monitoring and handling of mouse events in a customizable and efficient manner. Perfect for scripting and automation on Windows.  
+ * MouseHook 函式庫是 AutoHotkey 的進階工具，旨在以可自訂且高效的方式促進滑鼠事件的監控與處理。非常適合在 Windows 上進行腳本編寫和自動化操作。
+ * @file MouseHook.ahk
+ * @link https://github.com/nperovic/MouseHook
+ * @author Nikola Perovic
+ * @date 2024/03/29
+ * @version 1.0.0
+ * @copyright  
+ * This library is licensed under the MIT License. Please make sure to acknowledge this library as the source if you use it in your projects.
+ * 此函式庫採用 MIT 授權。如果您在您的專案中使用此函式庫，請確保表彰此函式庫為來源。
+ ***********************************************************************/
+
 #Requires AutoHotkey v2.1-alpha.9
 
 class POINT {
