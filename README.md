@@ -35,9 +35,7 @@ mh.Wait("LButton", "D", "LButton", unset, "RButton", "D", "RButton", unset)
 mh.Stop()
 ```
 
-See  for the real uasge of MouseHook.
-
-Refer to [TaskbarReveal.ahk](example/TaskbarReveal.ahk) for the practical usage of MouseHook.
+> Refer to [TaskbarReveal.ahk](example/TaskbarReveal.ahk) for the practical usage of MouseHook.
 
 ## Notes
 
@@ -79,7 +77,7 @@ mh.Wait("LButton", "D", "LButton", unset, "RButton", "D", "RButton", unset)
 mh.Stop()
 ```
 
-請參考 [TaskbarReveal.ahk](example/TaskbarReveal.ahk) 以瞭解 MouseHook 的實際用途。
+> 請參考 [TaskbarReveal.ahk](example/TaskbarReveal.ahk) 以瞭解 MouseHook 的實際用途。
 
 ## 注意事項
 
