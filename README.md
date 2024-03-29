@@ -9,6 +9,9 @@ Welcome to AutoHotkey-MouseHook, a comprehensive and customizable MouseHook libr
 
 https://github.com/nperovic/MouseHook/assets/122501303/94f2c4f0-8dc0-4c18-b34f-34b29ac17720
 
+https://github.com/nperovic/MouseHook/assets/122501303/33ec0726-8a02-43fb-9150-7ef71e2e9811
+> Refer to [TaskbarReveal.ahk](example/TaskbarReveal.ahk) for the practical usage of MouseHook.
+
 ## Features
 
 - Monitor various mouse events including movement, button presses, and wheel scrolling.
