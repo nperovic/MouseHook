@@ -9,7 +9,7 @@
 
 #requires AutoHotkey v2.1-alpha.9
 #SingleInstance
-#Include <MouseHook>
+#Include ..\MouseHook.ahk
 
 Persistent()
 
